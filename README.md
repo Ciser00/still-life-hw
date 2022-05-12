@@ -1,9 +1,13 @@
 # vite-threejs-ts-starter
+
 My first Three JS project, a simple still life consisting of a few shapes and a table.
 
 
 
-<img src="https://github.com/defmech/vite-threejs-ts-starter/blob/main/resources/sl_2.png" width="504" height="457">
+<!-- View demo hosted on CloudFlare pages: [vite-threejs-ts-starter.pages.dev](https://vite-threejs-ts-starter.pages.dev/) -->
+
+<img src="https://github.com/Ciser00/still-life-hw/blob/main/resources/sl_2.PNG?raw=true" width="504" height="457">
+
 
 Press `e` key to export canvas as `PNG` in a new browser tab.
 
