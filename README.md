@@ -9,8 +9,6 @@ My first Three JS project, a simple still life consisting of a few shapes and a 
 <img src="https://github.com/Ciser00/still-life-hw/blob/main/resources/sl_2.PNG?raw=true" width="504" height="457">
 
 
-Press `e` key to export canvas as `PNG` in a new browser tab.
-
 ## Getting started
 
 Install dependencies.
